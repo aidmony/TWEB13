@@ -1,0 +1,247 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Adal{\i}}{Adal{\i}}{2013}]{Adali:2013}
+{\sc Adal{\i}, S.} 2013.
+\newblock {\em Modeling Trust Context in Networks}.
+\newblock Springer Briefs, New York.
+
+\bibitem[\protect\citeauthoryear{Ames, Fiske, and Todorov}{Ames
+  et~al\mbox{.}}{2011}]{Ames:2011}
+{\sc Ames, D.}, {\sc Fiske, S.}, {\sc and} {\sc Todorov, A.} 2011.
+\newblock Impression formation: A focus on others' intents.
+\newblock In {\em The Oxford Handbook of Social Neuroscience}, {J.~Decety}
+  {and} {J.~Cacioppo}, Eds. Oxford University Press, 198 Madison Av., NY NY
+  10016., 419--433.
+
+\bibitem[\protect\citeauthoryear{Aral, Muchnik, and Sundararajan}{Aral
+  et~al\mbox{.}}{2009}]{Aral:2009}
+{\sc Aral, S.}, {\sc Muchnik, L.}, {\sc and} {\sc Sundararajan, A.} 2009.
+\newblock Distinguishing influence based contagion from homophily driven
+  diffusion in dynamic networks.
+\newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
+  106,\/}~51, 21544---21549.
+
+\bibitem[\protect\citeauthoryear{Avesani, Massa, and Tiella}{Avesani
+  et~al\mbox{.}}{2005}]{moletrust}
+{\sc Avesani, P.}, {\sc Massa, P.}, {\sc and} {\sc Tiella, R.} 2005.
+\newblock A trust-enhanced recommender system application: Moleskiing.
+\newblock In {\em The 2005 ACM symposium on Applied computing}. ACM Press, New
+  York, 1589--1593.
+
+\bibitem[\protect\citeauthoryear{Balakrishnan and Kambhampati}{Balakrishnan and
+  Kambhampati}{2011}]{Balakrishnan:2011}
+{\sc Balakrishnan, R.} {\sc and} {\sc Kambhampati, S.} 2011.
+\newblock Sourcerank: relevance and trust assessment for deep web sources based
+  on inter-source agreement.
+\newblock In {\em Proceedings of the 20th International Conference on World
+  Wide Web}. 227--236.
+
+\bibitem[\protect\citeauthoryear{Cartwright and Harary}{Cartwright and
+  Harary}{1956}]{Cartwright:56}
+{\sc Cartwright, D.} {\sc and} {\sc Harary, F.} 1956.
+\newblock Structural balance: a generalization of heider's theory.
+\newblock {\em Psychological Review\/}~{\em 63,\/}~5, 277--293.
+
+\bibitem[\protect\citeauthoryear{Davis}{Davis}{1967}]{Davis:67}
+{\sc Davis, J.} 1967.
+\newblock Clustering and structural balance in graphs.
+\newblock {\em Human Relations\/}~{\em 20,\/}~2, 181--187.
+
+\bibitem[\protect\citeauthoryear{do~B.~DeFigueiredo and
+  Barr}{do~B.~DeFigueiredo and Barr}{2005}]{trustdavis}
+{\sc do~B.~DeFigueiredo, D.} {\sc and} {\sc Barr, E.~T.} 2005.
+\newblock Trustdavis: A non-exploitable online reputation system.
+\newblock In {\em The Seventh IEEE International Conference on E-Commerce
+  Technology}. IEEE Computer Society, Washington, DC, 274--283.
+
+\bibitem[\protect\citeauthoryear{Doreian}{Doreian}{2002}]{Doreian:02}
+{\sc Doreian, P.} 2002.
+\newblock Event sequences as generators of social network evolution.
+\newblock {\em Social Networks\/}~{\em 24}, 93--119.
+
+\bibitem[\protect\citeauthoryear{DuBois, Golbeck, and Srinavasan}{DuBois
+  et~al\mbox{.}}{2011}]{golbeck:distrust2011}
+{\sc DuBois, T.}, {\sc Golbeck, J.}, {\sc and} {\sc Srinavasan, A.} 2011.
+\newblock Predicting trust and distrust in social networks.
+\newblock In {\em IEEE Int. Conf. on Social Computing}. IEEE, Boston, MA.
+
+\bibitem[\protect\citeauthoryear{DuBois, Golbeck, and Srinivasan}{DuBois
+  et~al\mbox{.}}{2009}]{DuBois:2009}
+{\sc DuBois, T.}, {\sc Golbeck, J.}, {\sc and} {\sc Srinivasan, A.} 2009.
+\newblock Rigorous probabilistic trust-inference with applications to
+  clustering.
+\newblock In {\em Proc. of the 2009 WI-IAT Conf.} Vol.~01. IEEE Computer
+  Society, Milan, Italy, 655--658.
+
+\bibitem[\protect\citeauthoryear{Easley and Kleinberg}{Easley and
+  Kleinberg}{2010}]{kleinberg-book}
+{\sc Easley, D.} {\sc and} {\sc Kleinberg, J.} 2010.
+\newblock {\em Networks, Crowds, and Markets: Reasoning About a Highly
+  Connected World}.
+\newblock Cambridge University Press, New York.
+
+\bibitem[\protect\citeauthoryear{Fiske, Cuddy, and Glick}{Fiske
+  et~al\mbox{.}}{2007}]{Fiske:2007}
+{\sc Fiske, S.~T.}, {\sc Cuddy, A.~J.}, {\sc and} {\sc Glick, P.} 2007.
+\newblock Universal dimensions of social cognition: warmth and competence.
+\newblock {\em Trends in Cognitive Sciences\/}~{\em 11,\/}~2, 77 -- 83.
+
+\bibitem[\protect\citeauthoryear{Gansner, Koren, and North}{Gansner
+  et~al\mbox{.}}{2005}]{Gansner:05}
+{\sc Gansner, E.~R.}, {\sc Koren, Y.}, {\sc and} {\sc North, S.} 2005.
+\newblock Graph drawing by stress majorization.
+\newblock {\em J. Pach (Ed.), Graph Drawing, Lecture Notes in Computer
+  Science\/}~{\em 3383}, 239--250.
+
+\bibitem[\protect\citeauthoryear{Granovetter}{Granovetter}{1973}]{Granovetter:1973}
+{\sc Granovetter, M.} 1973.
+\newblock The strength of weak ties.
+\newblock {\em American Journal of Sociology\/}~{\em 78}, 1--22.
+
+\bibitem[\protect\citeauthoryear{Guha, Kumar, Raghavan, and Tomkins}{Guha
+  et~al\mbox{.}}{2004}]{Guha:04}
+{\sc Guha, R.}, {\sc Kumar, R.}, {\sc Raghavan, P.}, {\sc and} {\sc Tomkins,
+  A.} 2004.
+\newblock Propagation of trust and distrust.
+\newblock In {\em WWW}. ACM Press, New York, 403--412.
+
+\bibitem[\protect\citeauthoryear{Gupta, Sun, and Han}{Gupta
+  et~al\mbox{.}}{2011}]{Sun:2011}
+{\sc Gupta, M.}, {\sc Sun, Y.}, {\sc and} {\sc Han, J.} 2011.
+\newblock Trust analysis with clustering.
+\newblock In {\em Proceedings of the 20th International Conference on World
+  Wide Web}. 53--54.
+
+\bibitem[\protect\citeauthoryear{Hang, Wang, and Singh}{Hang
+  et~al\mbox{.}}{2008}]{Singh08}
+{\sc Hang, C.}, {\sc Wang, Y.}, {\sc and} {\sc Singh, M.} 2008.
+\newblock An adaptive probabilistic trust model and its evaluation.
+\newblock In {\em The 7th International Joint Conference on Autonomous Agents
+  and Multiagent Systems}. Vol.~3. 1485--1488.
+
+\bibitem[\protect\citeauthoryear{Huang, Kimmig, Getoor, and Golbeck}{Huang
+  et~al\mbox{.}}{2013}]{Huang:2013}
+{\sc Huang, B.}, {\sc Kimmig, A.}, {\sc Getoor, L.}, {\sc and} {\sc Golbeck,
+  J.} 2013.
+\newblock A flexible framework for probabilistic models of social trust.
+\newblock In {\em International Conference on Social Computing,
+  Behavioral-Cultural Modeling, \& Prediction}.
+
+\bibitem[\protect\citeauthoryear{Josang, Marsh, and Pope}{Josang
+  et~al\mbox{.}}{2006}]{josang06}
+{\sc Josang, A.}, {\sc Marsh, S.}, {\sc and} {\sc Pope, S.} 2006.
+\newblock Exploring different types of trust propagation.
+\newblock In {\em The 4th International Conference}. Vol. 3986. Springer Berlin
+  Heidelberg, Pisa, Italy, 179--192.
+
+\bibitem[\protect\citeauthoryear{Kuter and Golbeck}{Kuter and
+  Golbeck}{2010}]{sunny}
+{\sc Kuter, U.} {\sc and} {\sc Golbeck, J.} 2010.
+\newblock Using probabilistic confidence models for trust inference in
+  web-based social networks.
+\newblock {\em ACM Transaction Internet Techology\/}~{\em 10,\/}~2, 1--23.
+
+\bibitem[\protect\citeauthoryear{Le, Pasternack, Ahmadi, Gupta, Sun,
+  Abdelzaher, Han, Roth, Szymanski, and Adali}{Le
+  et~al\mbox{.}}{2011}]{Le:2011}
+{\sc Le, H.}, {\sc Pasternack, J.}, {\sc Ahmadi, H.}, {\sc Gupta, M.}, {\sc
+  Sun, Y.}, {\sc Abdelzaher, T.}, {\sc Han, J.}, {\sc Roth, D.}, {\sc
+  Szymanski, B.}, {\sc and} {\sc Adali, S.} 2011.
+\newblock Apollo: Towards factfinding in participatory sensing.
+\newblock In {\em Information Processing in Sensor Networks (IPSN), 2011 10th
+  International Conference on}. 129--130.
+
+\bibitem[\protect\citeauthoryear{Leeuw}{Leeuw}{1977}]{Leeuw:77}
+{\sc Leeuw, J.~D.} 1977.
+\newblock Applications of convex analysis to multidimensional scaling.
+\newblock In {\em Recent Developments in Stat.}, {J.~Barra}, {F.~Brodeau},
+  {F.~Romier}, {and} {B.~V. Cutsem}, Eds. North-Holland, Amsterdam, 133--145.
+
+\bibitem[\protect\citeauthoryear{Leskovec, Huttenlocher, and
+  Kleinberg}{Leskovec et~al\mbox{.}}{2010}]{Leskovec:2010}
+{\sc Leskovec, J.}, {\sc Huttenlocher, D.}, {\sc and} {\sc Kleinberg, J.} 2010.
+\newblock Predicting positive and negative links in online social networks.
+\newblock In {\em WWW}. ACM Press, New York, 641--650.
+
+\bibitem[\protect\citeauthoryear{Levien and Aiken}{Levien and
+  Aiken}{1998}]{advogato}
+{\sc Levien, R.} {\sc and} {\sc Aiken, A.} 1998.
+\newblock Attack-resistant trust metrics for public key certification.
+\newblock In {\em The 7th USENIX Security Symposium}. Vol.~7. USENIX
+  Association Berkeley, San Antonio, Texas, 18--18.
+
+\bibitem[\protect\citeauthoryear{Liben-Nowell and Kleinberg}{Liben-Nowell and
+  Kleinberg}{2003}]{Kleinberg:03}
+{\sc Liben-Nowell, D.} {\sc and} {\sc Kleinberg, J.} 2003.
+\newblock The link prediction problem for social networks.
+\newblock In {\em CIKM}. ACM Press, New York, 556--559.
+
+\bibitem[\protect\citeauthoryear{Patel, Teacy, Jennings, and Luck}{Patel
+  et~al\mbox{.}}{2005}]{patel05}
+{\sc Patel, J.}, {\sc Teacy, W.}, {\sc Jennings, N.}, {\sc and} {\sc Luck, M.}
+  2005.
+\newblock A probabilistic trust model for handling inaccurate reputation
+  sources.
+\newblock In Third International Conference. {\em Trust Management\/}~{\em
+  3477}, 193--209.
+
+\bibitem[\protect\citeauthoryear{Qian and Adal{\i}}{Qian and
+  Adal{\i}}{2013}]{QA2013}
+{\sc Qian, Y.} {\sc and} {\sc Adal{\i}, S.} 2013.
+\newblock Extended structural balance theory for modeling trust in social
+  networks.
+\newblock In {\em Proceedings of Privacy, Security and Trust, PST2013}.
+
+\bibitem[\protect\citeauthoryear{Tang, Gao, Hu, and Liu}{Tang
+  et~al\mbox{.}}{2013}]{Tang:2013}
+{\sc Tang, J.}, {\sc Gao, H.}, {\sc Hu, X.}, {\sc and} {\sc Liu, H.} 2013.
+\newblock Exploiting homophily effect for trust prediction.
+\newblock In {\em WSDM Conference on Web Search and Data Mining}. ACM Press,
+  Rome, Italy.
+
+\bibitem[\protect\citeauthoryear{Tomasello, Carpenter, Call, Behne, and
+  Moll}{Tomasello et~al\mbox{.}}{2005}]{Tomasello:2005}
+{\sc Tomasello, M.}, {\sc Carpenter, M.}, {\sc Call, J.}, {\sc Behne, T.}, {\sc
+  and} {\sc Moll, H.} 2005.
+\newblock Understanding and sharing intentions: The origins of cultural
+  cognition.
+\newblock {\em Behavioral and Brain Sciences\/}~{\em 28,\/}~5, 675--91.
+
+\bibitem[\protect\citeauthoryear{Uzzi}{Uzzi}{1996}]{Uzzi:1996}
+{\sc Uzzi, B.} 1996.
+\newblock The sources and consequences of embeddedness for the economic
+  performance of organizations: The network effect.
+\newblock {\em American sociological review\/}~{\em 61}, 674--698.
+
+\bibitem[\protect\citeauthoryear{Victor, Cornelis, Cock, and
+  Herrera-Viedma}{Victor et~al\mbox{.}}{2011}]{Victor:2011}
+{\sc Victor, P.}, {\sc Cornelis, C.}, {\sc Cock, M.~D.}, {\sc and} {\sc
+  Herrera-Viedma, E.} 2011.
+\newblock Practical aggregation operators for gradual trust and distrust.
+\newblock {\em Fuzzy Sets and Systems\/}~{\em 184,\/}~1, 126--147.
+
+\bibitem[\protect\citeauthoryear{Yao, Tong, Yan, Xu, and Lu}{Yao
+  et~al\mbox{.}}{2013}]{Yao:2013}
+{\sc Yao, Y.}, {\sc Tong, H.}, {\sc Yan, X.}, {\sc Xu, F.}, {\sc and} {\sc Lu,
+  J.} 2013.
+\newblock Matri: A multi-aspect and transitive trust inference model.
+\newblock In {\em Proceedings of the 22Nd International Conference on World
+  Wide Web}. WWW '13. International World Wide Web Conferences Steering
+  Committee, Republic and Canton of Geneva, Switzerland, 1467--1476.
+
+\bibitem[\protect\citeauthoryear{Yin, Han, and Yu}{Yin
+  et~al\mbox{.}}{2008}]{Yin:2008}
+{\sc Yin, X.}, {\sc Han, J.}, {\sc and} {\sc Yu, P.} 2008.
+\newblock Truth discovery with multiple conflicting information providers on
+  the web.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering\/}~{\em
+  20,\/}~6, 796 -- 808.
+
+\bibitem[\protect\citeauthoryear{Ziegler and Lausen}{Ziegler and
+  Lausen}{2004}]{appleseed}
+{\sc Ziegler, C.-N.} {\sc and} {\sc Lausen, G.} 2004.
+\newblock Spreading activation models for trust propagation.
+\newblock In {\em The IEEE International Conference on e-Technology, e-Commerce
+  and e-Service}. IEEE Computer Society, Taipei, Taiwan.
+
+\end{thebibliography}

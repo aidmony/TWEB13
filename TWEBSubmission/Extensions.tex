@@ -1,0 +1,86 @@
+\documentclass[11pt]{article}
+\include{rmacros}
+%\usepackage{fancyhdr}
+\usepackage{enumerate}
+%\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{chngpage}
+\usepackage[colorlinks]{hyperref}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+\oddsidemargin = 0.2in
+\textwidth = 6.5 in
+\textheight = 9.8 in
+\headsep = -1in
+
+% \pagestyle{fancy}
+% \lhead{\Large \parbox{11cm}{Name} }
+% \renewcommand{\headheight}{24pt}
+
+\title{Differences between the journal submission and the conference publication}
+\author{Yi Qian and Sibel Adal{\i}}
+\date{}
+\begin{document}
+\maketitle
+
+The following submission provides a significantly expanded version of
+the conference paper titled: ``Extended Structural Balance Theory for
+Modeling Trust in Social Networks'' which is accepted to appear in PST
+2013 Conference on Privacy, Security and Trust.
+
+The theory underlying both papers is the same. However, the journal
+submission provides an extensive rewriting of the experimental results
+reported in the conference submission, illustrating various properties
+of the proposed method.
+
+\begin{itemize}
+\item We introduce a number of small stylized graphs and show the
+  results of convergence for these graphs. We discuss how our theory
+  captures frequently hypothesized properties of trust with the help
+  of these graphs.
+\item In the conference publication, we have only provided limited set
+  of results using Stress Majorization (SM) which provides an exact
+  solution to the problem. However, due to the underlying complexity
+  of this algorithm, we were only able to test it on small samples of
+  the underlying graphs studied. In this paper, we introduce a new
+  version of Stress Majorization for sparse graphs (SM/SG) and use it
+  to provide many new results that use the full network data. The
+  following describes these new methods.
+\item We first show that SM and SM/SG have similar performance on the
+  same sampled graphs. Then, we use SM/SG to test many different
+  properties of our algorithm that were not illustrated in the
+  conference publication. In particular, we show how the choice of the
+  underlying graph, the choice of neutral edges impacts the result. We
+  also illustrate how the performance of the algorithm is impacted by
+  removal of edges from the graph. We show to which degree our method
+  can predict the sign of edges that will be created in the future. We
+  discuss the sensitivity to parameter choices. 
+\item In addition, we add two studies to this paper that are crucial
+  for illustrating the utility of the proposed method. The first one
+  is the study of strong and weak edges. We introduce bi-directional
+  edges with the same sign as strong and single directional edges as
+  weak edges. We define neutral edges as those with conflicting
+  signs. Using this graph, we show that our method is able to achieve
+  superior performance for strong edges while providing similar
+  performance for weak edges as before.
+\item The second crucial study involves justification of the method
+  with external validation. We incorporate a study of ratings that is
+  not used in the algorithm to illustrate the notion of
+  convergence. We show how edges that change sign according to our
+  theory also tend to change their ratings more than average. We show
+  that the performance remains similar even when we consider strong
+  and weak edges. We discuss how network structure can predict this
+  change.
+\item All the results are discussed in great detail that was not
+  possible due to the limited scope of the conference paper. We expand
+  introduction and conclusion accordingly to further discuss the new
+  findings.
+\end{itemize}
+
+
+
+\end{document}
+

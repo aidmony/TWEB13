@@ -1,0 +1,624 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 MAR 2014 23:09
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(./acmsmall.cls
+Document Class: acmsmall 2012/03/05, fonts included on 28 June 2010
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+
+Using ACM, TWEB option: 2010/05/04 by Aptara
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+Document Class `acmsmall' Electronic Submissions v1.4 <July 09, 2012> (ACM).
+\@firstpg=\count80
+\@lastpg=\count81
+\trimheight=\dimen104
+\trimwidth=\dimen105
+\normaltextheight=\dimen106
+\tempdimen=\dimen107
+\tempbox=\box26
+\tbbox=\box27
+\tabledim=\dimen108
+\symnewlargesymbols=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \bigsqcup on input line 2037.
+\normalparindent=\dimen109
+\footheight=\skip41
+\@maxsep=\skip42
+\@dblmaxsep=\skip43
+\@totalpg=\count82
+\@abstract=\box28
+\@permissionbox=\box29
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\enumdim=\dimen110
+\c@theorem=\count88
+\belowcaptionskip=\skip44
+\abovecaptionskip=\skip45
+\c@figure=\count89
+\c@table=\count90
+\@narrowfig=\dimen111
+\@nfigbox=\box30
+\@nfcapbox=\box31
+\@nfigbox=\box32
+\@nfcapbox=\box33
+\bibindent=\dimen112
+LaTeX Font Info:    Overwriting math alphabet `\mathbb' in version `normal'
+(Font)                  OT1/ams/bx/n --> OT1/ams/bx/n on input line 3619.
+LaTeX Font Info:    Overwriting math alphabet `\mathbb' in version `bold'
+(Font)                  OT1/ams/bx/n --> OT1/ams/bx/n on input line 3620.
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks16
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks17
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count91
+\c@ALG@rem=\count92
+\c@ALG@nested=\count93
+\ALG@tlm=\skip48
+\ALG@thistlm=\skip49
+\c@ALG@Lnr=\count94
+\c@ALG@blocknr=\count95
+\c@ALG@storecount=\count96
+\c@ALG@tmpcounter=\count97
+\ALG@tmplength=\skip50
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count98
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip51
+\skiplinenumber=\skip52
+\skiprule=\skip53
+\skiphlne=\skip54
+\skiptext=\skip55
+\skiplength=\skip56
+\algomargin=\skip57
+\skipalgocfslide=\skip58
+\algowidth=\dimen115
+\inoutsize=\dimen116
+\inoutindent=\dimen117
+\interspacetitleruled=\dimen118
+\interspacealgoruled=\dimen119
+\interspacetitleboxruled=\dimen120
+\algocf@inoutbox=\box34
+\algocf@inputbox=\box35
+\AlCapSkip=\skip59
+\AlCapHSkip=\skip60
+\algoskipindent=\skip61
+\algocf@nlbox=\box36
+\algocf@hangingbox=\box37
+\algocf@untilbox=\box38
+\algocf@skipuntil=\skip62
+\algocf@capbox=\box39
+\algoheightruledefault=\skip63
+\algoheightrule=\skip64
+\algotitleheightruledefault=\skip65
+\algotitleheightrule=\skip66
+\c@algocfline=\count99
+\c@algocfproc=\count100
+\c@algocf=\count101
+\algocf@algoframe=\box40
+\algocf@algobox=\box41
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen121
+)
+\c@principle=\count102
+
+(./main.aux
+
+LaTeX Warning: Label `tab:PP' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen122
+\scratchbox=\box42
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen123
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+lasy on input line 86.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 86.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
+
+Overfull \vbox (72.27pt too high) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Non-PDF special ignored!
+
+]
+Underfull \vbox (badness 3049) has occurred while \output is active []
+
+ [2]
+<strongBalance_ver.pdf, id=20, 562.1pt x 178.6675pt>
+File: strongBalance_ver.pdf Graphic file (type pdf)
+
+<use strongBalance_ver.pdf>
+Package pdftex.def Info: strongBalance_ver.pdf used on input line 242.
+(pdftex.def)             Requested size: 181.89125pt x 57.81621pt.
+ [3] [4 <./strongBalance_ver.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 579--587
+[] \OT1/cmr/m/it/10 Sup-pose
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 579--587
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A; B\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 B; C\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 A; C\OT1/cmr/m/n/10 )$ \OT1/cmr/m/it/10 and $\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 A; B\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/
+10 (\OML/cmm/m/it/10 B; C\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\
+OML/cmm/m/it/10 A; C\OT1/cmr/m/n/10 )$ \OT1/cmr/m/it/10 rep-re-sent two pos-si-
+ble tri-ads in-volv-
+ []
+
+[8]
+Underfull \hbox (badness 3919) in paragraph at lines 620--628
+[] \OT1/cmr/m/it/10 Sup-pose $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A; B\OT1/cmr/m/
+n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B; C\OT1/cmr/m/n/10 
+)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A; C\OT1/cmr/m/n/10 )$ \O
+T1/cmr/m/it/10 and
+ []
+
+[9] [10] <mapping2.pdf, id=75, 715.67375pt x 116.435pt>
+File: mapping2.pdf Graphic file (type pdf)
+ <use mapping2.pdf>
+Package pdftex.def Info: mapping2.pdf used on input line 869.
+(pdftex.def)             Requested size: 244.3196pt x 39.74872pt.
+
+[11] [12 <./mapping2.pdf>] [13]
+<stylized1.pdf, id=102, 1003.75pt x 1366.10374pt>
+File: stylized1.pdf Graphic file (type pdf)
+ <use stylized1.pdf>
+Package pdftex.def Info: stylized1.pdf used on input line 1099.
+(pdftex.def)             Requested size: 216.81pt x 295.06151pt.
+ [14]
+<stylized2.pdf, id=106, 1656.1875pt x 433.62pt>
+File: stylized2.pdf Graphic file (type pdf)
+ <use stylized2.pdf>
+Package pdftex.def Info: stylized2.pdf used on input line 1133.
+(pdftex.def)             Requested size: 397.48499pt x 104.0643pt.
+
+Overfull \hbox (1.48499pt too wide) in paragraph at lines 1133--1134
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./stylized1.pdf>] <stylized3.pdf, id=145, 1989.4325pt x 885.3075pt>
+File: stylized3.pdf Graphic file (type pdf)
+
+<use stylized3.pdf>
+Package pdftex.def Info: stylized3.pdf used on input line 1166.
+(pdftex.def)             Requested size: 397.48499pt x 176.88274pt.
+
+Overfull \hbox (1.48499pt too wide) in paragraph at lines 1166--1167
+ [][] 
+ []
+
+[16 <./stylized2.pdf> <./stylized3.pdf>] [17] [18]
+Underfull \hbox (badness 2680) in paragraph at lines 1405--1405
+[]|\OT1/cmr/m/n/8 Single and bi-directional edges are
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 1405--1405
+[]|\OT1/cmr/m/n/8 Bi-directional edges are con-sid-ered
+ []
+
+[19] <SM_Gstar_ep.pdf, id=227, 504.01225pt x 384.02014pt>
+File: SM_Gstar_ep.pdf Graphic file (type pdf)
+
+<use SM_Gstar_ep.pdf>
+Package pdftex.def Info: SM_Gstar_ep.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 93.60818pt.
+ <SM_Gstar_wiki.pdf, id=228, 502.63339pt x 383.11365pt>
+File: SM_Gstar_wiki.pdf Graphic file (type pdf)
+
+<use SM_Gstar_wiki.pdf>
+Package pdftex.def Info: SM_Gstar_wiki.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 93.64444pt.
+ <SM_Gstar_slash.pdf, id=229, 502.65799pt x 385.3341pt>
+File: SM_Gstar_slash.pdf Graphic file (type pdf)
+
+<use SM_Gstar_slash.pdf>
+Package pdftex.def Info: SM_Gstar_slash.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 94.1813pt.
+
+<SMSG_Gstar_ep.pdf, id=230, 501.06674pt x 384.98947pt>
+File: SMSG_Gstar_ep.pdf Graphic file (type pdf)
+ <use SMSG_Gstar_ep.pdf>
+Package pdftex.def Info: SMSG_Gstar_ep.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 94.39667pt.
+
+<SMSG_Gstar_wiki.pdf, id=231, 500.42188pt x 383.05484pt>
+File: SMSG_Gstar_wiki.pdf Graphic file (type pdf)
+
+<use SMSG_Gstar_wiki.pdf>
+Package pdftex.def Info: SMSG_Gstar_wiki.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 94.04506pt.
+
+<SMSG_Gstar_slash.pdf, id=232, 500.42181pt x 383.0549pt>
+File: SMSG_Gstar_slash.pdf Graphic file (type pdf)
+
+<use SMSG_Gstar_slash.pdf>
+Package pdftex.def Info: SMSG_Gstar_slash.pdf used on input line 1478.
+(pdftex.def)             Requested size: 122.85876pt x 94.04507pt.
+ [20] [21 <./SM_Gstar_ep.pdf> <./SM_Gstar_wiki.pdf> <./SM_Gstar_slash.pdf> <./S
+MSG_Gstar_ep.pdf> <./SMSG_Gstar_wiki.pdf> <./SMSG_Gstar_slash.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+<SMSG_G_ep.pdf, id=284, 502.53036pt x 385.34299pt>
+File: SMSG_G_ep.pdf Graphic file (type pdf)
+ <use SMSG_G_ep.pdf>
+Package pdftex.def Info: SMSG_G_ep.pdf used on input line 1653.
+(pdftex.def)             Requested size: 122.85876pt x 94.20699pt.
+
+<SMSG_G_wiki.pdf, id=285, 503.71445pt x 384.51488pt>
+File: SMSG_G_wiki.pdf Graphic file (type pdf)
+ <use SMSG_G_wiki.pdf>
+Package pdftex.def Info: SMSG_G_wiki.pdf used on input line 1653.
+(pdftex.def)             Requested size: 122.85876pt x 93.78159pt.
+
+<SMSG_G_slash.pdf, id=286, 503.63615pt x 382.42195pt>
+File: SMSG_G_slash.pdf Graphic file (type pdf)
+ <use SMSG_G_slash.pdf>
+Package pdftex.def Info: SMSG_G_slash.pdf used on input line 1653.
+(pdftex.def)             Requested size: 122.85876pt x 93.28864pt.
+
+[23 <./SMSG_G_ep.pdf> <./SMSG_G_wiki.pdf> <./SMSG_G_slash.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+<SMSG_Gsharp_wiki.pdf, id=314, 578.16pt x 433.62pt>
+File: SMSG_Gsharp_wiki.pdf Graphic file (type pdf)
+ <use SMSG_Gsharp_wiki.pdf>
+Package pdftex.def Info: SMSG_Gsharp_wiki.pdf used on input line 1801.
+(pdftex.def)             Requested size: 122.85876pt x 92.14137pt.
+
+<SMSG_Gsharp_slash.pdf, id=315, 578.16pt x 433.62pt>
+File: SMSG_Gsharp_slash.pdf Graphic file (type pdf)
+
+<use SMSG_Gsharp_slash.pdf>
+Package pdftex.def Info: SMSG_Gsharp_slash.pdf used on input line 1801.
+(pdftex.def)             Requested size: 122.85876pt x 92.14137pt.
+ [25 <./SMSG_Gsharp_wiki.pdf> <./SMSG_Gsharp_slash.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./SMSG_Gsharp_slash.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] <per_ep.pdf, id=380, 515.2539pt x 393.3728pt>
+File: per_ep.pdf Graphic file (type pdf)
+ <use per_ep.pdf>
+Package pdftex.def Info: per_ep.pdf used on input line 1867.
+(pdftex.def)             Requested size: 122.85365pt x 93.9492pt.
+
+<per_wiki.pdf, id=381, 501.06668pt x 386.92406pt>
+File: per_wiki.pdf Graphic file (type pdf)
+ <use per_wiki.pdf>
+Package pdftex.def Info: per_wiki.pdf used on input line 1867.
+(pdftex.def)             Requested size: 122.85797pt x 93.95pt.
+
+<per_slash.pdf, id=382, 503.00131pt x 387.56898pt>
+File: per_slash.pdf Graphic file (type pdf)
+ <use per_slash.pdf>
+Package pdftex.def Info: per_slash.pdf used on input line 1867.
+(pdftex.def)             Requested size: 122.85648pt x 93.94691pt.
+ [26 <./per_ep.pdf> <./per_wiki.pdf> <./per_slash.pdf>]
+<last10_ep.pdf, id=407, 503.00131pt x 386.92412pt>
+File: last10_ep.pdf Graphic file (type pdf)
+ <use last10_ep.pdf>
+Package pdftex.def Info: last10_ep.pdf used on input line 1899.
+(pdftex.def)             Requested size: 122.85648pt x 93.95001pt.
+
+<last10_wiki.pdf, id=408, 503.64618pt x 385.6343pt>
+File: last10_wiki.pdf Graphic file (type pdf)
+ <use last10_wiki.pdf>
+Package pdftex.def Info: last10_wiki.pdf used on input line 1899.
+(pdftex.def)             Requested size: 122.8526pt x 93.9487pt.
+
+<Com_Gdi_ep.pdf, id=409, 503.64618pt x 390.14845pt>
+File: Com_Gdi_ep.pdf Graphic file (type pdf)
+ <use Com_Gdi_ep.pdf>
+Package pdftex.def Info: Com_Gdi_ep.pdf used on input line 1920.
+(pdftex.def)             Requested size: 122.8526pt x 93.9471pt.
+
+<Com_Gdi_wiki.pdf, id=410, 504.2911pt x 387.56898pt>
+File: Com_Gdi_wiki.pdf Graphic file (type pdf)
+ <use Com_Gdi_wiki.pdf>
+Package pdftex.def Info: Com_Gdi_wiki.pdf used on input line 1920.
+(pdftex.def)             Requested size: 122.85602pt x 93.94691pt.
+
+<Com_Gdi_slash.pdf, id=411, 500.41524pt x 383.65308pt>
+File: Com_Gdi_slash.pdf Graphic file (type pdf)
+ <use Com_Gdi_slash.pdf>
+Package pdftex.def Info: Com_Gdi_slash.pdf used on input line 1920.
+(pdftex.def)             Requested size: 122.8586pt x 93.95192pt.
+
+<Com_all_ep.pdf, id=412, 504.9359pt x 388.85872pt>
+File: Com_all_ep.pdf Graphic file (type pdf)
+ <use Com_all_ep.pdf>
+Package pdftex.def Info: Com_all_ep.pdf used on input line 1938.
+(pdftex.def)             Requested size: 122.85901pt x 93.951pt.
+
+<Com_all_wiki.pdf, id=413, 503.00134pt x 387.56895pt>
+File: Com_all_wiki.pdf Graphic file (type pdf)
+ <use Com_all_wiki.pdf>
+Package pdftex.def Info: Com_all_wiki.pdf used on input line 1938.
+(pdftex.def)             Requested size: 122.85648pt x 93.94691pt.
+
+<Com_all_slash.pdf, id=414, 506.2257pt x 386.92409pt>
+File: Com_all_slash.pdf Graphic file (type pdf)
+ <use Com_all_slash.pdf>
+Package pdftex.def Info: Com_all_slash.pdf used on input line 1938.
+(pdftex.def)             Requested size: 122.85612pt x 93.95pt.
+
+[27 <./last10_ep.pdf> <./last10_wiki.pdf> <./Com_Gdi_ep.pdf> <./Com_Gdi_wiki.pd
+f> <./Com_Gdi_slash.pdf> <./Com_all_ep.pdf> <./Com_all_wiki.pdf> <./Com_all_sla
+sh.pdf>] <SMSG5_slash.pdf, id=474, 501.06671pt x 387.56898pt>
+File: SMSG5_slash.pdf Graphic file (type pdf)
+
+<use SMSG5_slash.pdf>
+Package pdftex.def Info: SMSG5_slash.pdf used on input line 2029.
+(pdftex.def)             Requested size: 122.85799pt x 93.94691pt.
+ <SMSG5_slash_di.pdf, id=475, 502.35648pt x 385.6343pt>
+File: SMSG5_slash_di.pdf Graphic file (type pdf)
+
+<use SMSG5_slash_di.pdf>
+Package pdftex.def Info: SMSG5_slash_di.pdf used on input line 2029.
+(pdftex.def)             Requested size: 122.85228pt x 93.9487pt.
+ [28]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [29 <./SMSG5_slash.pdf> <./SMSG5_slash_di.pdf>]
+<ep_hist.pdf, id=496, 520.71541pt x 400.55031pt>
+File: ep_hist.pdf Graphic file (type pdf)
+ <use ep_hist.pdf>
+Package pdftex.def Info: ep_hist.pdf used on input line 2130.
+(pdftex.def)             Requested size: 122.85876pt x 94.50215pt.
+
+<wiki_hist.pdf, id=497, 523.79662pt x 401.32062pt>
+File: wiki_hist.pdf Graphic file (type pdf)
+ <use wiki_hist.pdf>
+Package pdftex.def Info: wiki_hist.pdf used on input line 2130.
+(pdftex.def)             Requested size: 122.85876pt x 94.12663pt.
+
+<slash_hist.pdf, id=498, 523.02635pt x 403.77127pt>
+File: slash_hist.pdf Graphic file (type pdf)
+ <use slash_hist.pdf>
+Package pdftex.def Info: slash_hist.pdf used on input line 2130.
+(pdftex.def)             Requested size: 122.85876pt x 94.84312pt.
+
+[30 <./ep_hist.pdf> <./wiki_hist.pdf> <./slash_hist.pdf>] (./main.bbl [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32])
+[33] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4187 strings out of 493315
+ 58272 string characters out of 6137904
+ 150328 words of memory out of 5000000
+ 7538 multiletter control sequences out of 15000+600000
+ 16651 words of font info for 68 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,16n,24p,301b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (33 pages, 1528676 bytes).
+PDF statistics:
+ 622 PDF objects out of 1000 (max. 8388607)
+ 412 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+
